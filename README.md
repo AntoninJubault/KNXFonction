@@ -1,5 +1,8 @@
 # KNXFonction
 L'objectif de cette classe est d'aider les communication avec votre matériel KNX.
+PS : N'oubliez pas d'importer la classe Caliméro.
+
+Tout d'abord merci à Johann Bourcier pour le cours dispensé sur KNX.
 
 Pour cela l'intégralité de la gestion de votre système KNX ne SERA PAS réalisé sous ETS.
 
